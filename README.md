@@ -10,7 +10,7 @@
 
 ## About
 
-Software Engineer with 2+ years of experience in backend and full-stack development, specializing in Python, Django, and Flask. Proven track record of building production-ready applications, APIs, and automation tools, taking products from concept to MVP in startup and client-based environments. Strong exposure to cloud platforms, application security, and AI integrations, with hands-on leadership experience in mentoring teams and managing technical execution.
+Software Engineer with 3+ years of experience in backend and mobile development. Published Sahulat PK on Google Play Store. Acadly (student-teacher platform) in final polishing phase. Designed 200+ UI screens in Figma across web and mobile products. Experienced in Python (Django/Flask), React Native, and REST APIs - with a track record of shipping real products in startup environments.
 
 **Current Role:** Project Manager / Software Engineer at Systemset Co  
 **Location:** Karachi, Pakistan  
