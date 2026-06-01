@@ -11,7 +11,7 @@
 
 3+ years shipping real products — not just demos. Currently PM/Engineer at **[Systemset Co](https://github.com/Systemset-Co)**.
 
-- **[Mezbaan](http://mezbaan.systemset.co/)** — Upcoming event planning platform. Simplifies remote venue booking with dedicated portals for both users and hall owners.
+- **[Mezbaan](http://mezbaan.systemset.co/)** — Event planning platform. Remote venue booking for guests and hall owners.
 - **[Sahulat PK](https://play.google.com/store/apps/details?id=com.publicservices.pakistan&hl=en)** — React Native app. Offline-first government helplines directory.
 - **[DealSafe](https://dealsafepk.vercel.app)** — Freelance escrow platform. Multi-currency, milestone-based payments.
 - **[Acadly](https://acadly.systemset.co)** — Student-teacher platform with real-time chat & public profiles.
