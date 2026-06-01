@@ -1,5 +1,4 @@
 # Ch. Abdul Wahab
-
 **Software Engineer** · Python · Django · Node.js · Karachi, PK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chabdulwahab)
@@ -12,10 +11,11 @@
 
 3+ years shipping real products — not just demos. Currently PM/Engineer at **[Systemset Co](https://github.com/Systemset-Co)**.
 
-- ![Live](https://img.shields.io/badge/Live-4CAF50?style=flat-square) **[DealSafe](https://dealsafe.pages.dev)** — Freelance escrow platform. Multi-currency, milestone-based payments.
-- ![Published](https://img.shields.io/badge/Published-4285F4?style=flat-square&logo=googlechrome&logoColor=white) **[Noor-ul-Basar](https://chromewebstore.google.com)** — AI Chrome Extension. On-device ML, zero data sent externally.
-- ![Polishing](https://img.shields.io/badge/Polishing-F5A623?style=flat-square) **Acadly** — Student-teacher platform with real-time chat & public profiles.
-- ![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=googleplay&logoColor=white) **Sahulat PK** — React Native app. Offline-first government helplines directory.
+- **[Mezbaan](http://mezbaan.systemset.co/)** — Upcoming event planning platform. Simplifies remote venue booking with dedicated portals for both users and hall owners.
+- **[Sahulat PK](https://play.google.com/store/apps/details?id=com.publicservices.pakistan&hl=en)** — React Native app. Offline-first government helplines directory.
+- **[DealSafe](https://dealsafepk.vercel.app)** — Freelance escrow platform. Multi-currency, milestone-based payments.
+- **[Acadly](https://acadly.systemset.co)** — Student-teacher platform with real-time chat & public profiles.
+- **[Noor-ul-Basar](https://noor-ul-basar.netlify.app/)** — AI Chrome Extension. On-device ML, zero data sent externally.
 
 ---
 
@@ -39,6 +39,9 @@
 
 | Package | Registry | Description |
 |---|---|---|
+| [@chabdulwahab/flowcap](https://www.npmjs.com/package/@chabdulwahab/flowcap) | npm | Zero-dependency HTTP rate limiting middleware for Express, Fastify, Koa, and vanilla Node. Sliding window, built-in presets, IETF draft-8 compliant. |
+| [@chabdulwahab/api-spy](https://www.npmjs.com/package/@chabdulwahab/api-spy) | npm | Express middleware that renders a live performance dashboard at the bottom of your terminal. Zero deps, under 5KB. |
+| [@chabdulwahab/env-ok](https://www.npmjs.com/package/@chabdulwahab/env-ok) | npm | Drop-in env variable guard for Node.js + TypeScript. Validates `.env` against `.env.example` before your app boots. Under 2KB. |
 | [projex-cli](https://pypi.org/project/projex-cli/) | PyPI | CLI to scaffold production-ready Python projects (FastAPI/Django + Docker + CI/CD) |
 | [py-api-spy](https://pypi.org/project/py-api-spy/) | PyPI | Zero-dependency terminal dashboard for Python web frameworks |
 | [secupy](https://pypi.org/project/secupy/) | PyPI | Encryption, hashing & asymmetric encryption library |
