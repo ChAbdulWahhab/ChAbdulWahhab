@@ -1,6 +1,8 @@
 # Ch. Abdul Wahab
 **Software Engineer** · Python · MERN Stack · System Design · Karachi, PK
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ChAbdulWahhab/badge.svg)](https://hub.xerj.org/contributors/ChAbdulWahhab)
+
 [LinkedIn](https://linkedin.com/in/chabdulwahab) · [GitHub](https://github.com/ChAbdulWahhab) · [PyPI](https://pypi.org/user/ch.abdul.wahab/) · [npm](https://www.npmjs.com/~chabdulwahab) · [Email](mailto:ch.abdul.wahhab@proton.me)
 
 ---
